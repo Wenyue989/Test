@@ -6,10 +6,10 @@ This is a __demo__ of Github
 
 __**__
 
-specs | values
--------|-------
-CPU | 2
-memory | 20G
-SSD | 500G
-NIC | ethernet
-NIC2 | wireless
+specs | values | check
+-------:|:-------:|:---------
+CPU | 2 | Y
+MEMORY| 20G | N
+SSD | 500G | Y
+NIC | ethernet | Y
+NIC2 | wireless | N
