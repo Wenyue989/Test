@@ -13,3 +13,4 @@ MEMORY| 20G | N
 SSD | 500G | Y
 NIC | ethernet | Y
 NIC2 | wireless | N
+
