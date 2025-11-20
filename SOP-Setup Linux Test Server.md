@@ -92,7 +92,7 @@ systemctl status apache2
 
 Run the command:
 ```
-echo "<?php phpinfo(); ?>" | sudo tee /var/www/html/info.php
+echo '<?php echo "PHP is working!"; ?>' | sudo tee /var/www/html/info.php
 ```
 
 >Verify output by visiting:\(http://localhost/info.php)
