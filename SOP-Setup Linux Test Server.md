@@ -54,7 +54,8 @@ __Step 2:__ Create Virtual Machine in VMware
 - Select the folder for VM storage (optional)
 
 **Step 3:** Configure System Resources  
-- Assign CPU: 2 cores  >Note: Enough for testing server 
+- Assign CPU: 2 cores
+  >Note: Enough for testing server 
 - RAM: 2GB
   >Note: Stable performance
 - Disk: 20GB (Store as a single file recommended)  
