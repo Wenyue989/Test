@@ -65,7 +65,7 @@ This Request for Proposal (RFP) seeks qualified vendors to design, install, and 
 | __Requirement__ | __Details__ |
 |------------:|:---------|
 | Experience | Minimum 2 years experience in enterprise wireless deployment. |
-| Certifications | Provide any active/current certifications (if applicable) |
+| Certifications | Preferred: CCNA/CCNP, CompTIA Network+, CWNA, UniFi, Aruba, or equivalent. |
 | References | Provide **at least three customer references** with similar project scope. |
 | Demonstration | Ability to provide sample configuration or working demo environment upon request. |
 
@@ -126,5 +126,5 @@ We’re looking forward to reading through your proposal and creating with a par
 Sincerely, 
 
 Project Office
-\
+
 NSA-W25 Ltd. 
