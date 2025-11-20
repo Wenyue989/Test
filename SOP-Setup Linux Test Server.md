@@ -67,7 +67,7 @@ __Step 4:__ Install Ubuntu Server
 - Click __Play Virtual Machine__ 
 - Follow the installer prompts  
 - Enable **OpenSSH Server**  
-- Set hostname to __`Linux-testserver`__
+- Set hostname to: __`Linux-Testserver`__
 
 **Step 5:** Update System Packages  
 Run the following command in the terminal:
