@@ -119,9 +119,9 @@ Optional Add-ons: $ XXXX
 - Vendor agrees to non-disclosure of company information and documentation.
 
 ---
-
 Thank you for your interest.
 We’re looking forward to reading through your proposal and creating with a partner who wants to help us overachieve our security goals. 
+
 
 Sincerely, 
 
