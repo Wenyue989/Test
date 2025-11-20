@@ -25,7 +25,7 @@ This Request for Proposal (RFP) seeks qualified vendors to design, install, and 
 |:----------:|:------------|
 |  Site Survey | Perform a wireless spectrum analysis and determine optimal access point placement. |
 |  Installation & Configuration | Deploy and configure wireless access points, SSIDs, VLANs, authentication, and security policies. |
-|  Network Integration | Ensure seamless integration with existing wired network infrastructure, DHCP, firewall, and switching systems. |
+|  Network Integration | Ensure integration with existing wired network infrastructure, DHCP, firewall, and switching systems. |
 |  Maintenance & Support | Provide ongoing technical support, troubleshooting, firmware upgrades, and system optimization. |
 
 ---
