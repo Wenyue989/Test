@@ -42,7 +42,7 @@ This Request for Proposal (RFP) seeks qualified vendors to design, install, and 
   - MAC address filtering
   - Guest network isolation
   - Optional 802.1X authentication
-- Capacity for high device density (Minimum: **100 clients simultaneously**)
+- Capacity for high device density (Minimum: **50-100 clients simultaneously**)
 - Centralized network monitoring dashboard
 - Compatibility with existing switching and firewall systems
 
