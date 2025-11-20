@@ -36,13 +36,13 @@ This Request for Proposal (RFP) seeks qualified vendors to design, install, and 
 - Full Wi-Fi coverage throughout:
   - Offices
   - Meeting rooms
-  - Common/public areas
+  - Public areas
 - Network Security Requirements:
   - WPA3 encryption
   - MAC address filtering
   - Guest network isolation
   - Optional 802.1X authentication
-- Capacity for high device density (Minimum: **100 simultaneous clients**)
+- Capacity for high device density (Minimum: **100 clients simultaneously**)
 - Centralized network monitoring dashboard
 - Compatibility with existing switching and firewall systems
 
@@ -65,8 +65,8 @@ This Request for Proposal (RFP) seeks qualified vendors to design, install, and 
 | __Requirement__ | __Details__ |
 |------------:|:---------|
 | Experience | Minimum 2 years experience in enterprise wireless deployment. |
-| Certifications | Preferred: CCNA/CCNP, CompTIA Network+, CWNA, UniFi, Aruba, or equivalent. |
-| References | Must provide **at least three customer references** with similar project scope. |
+| Certifications | Provide any active/current certifications (if applicable) |
+| References | Provide **at least three customer references** with similar project scope. |
 | Demonstration | Ability to provide sample configuration or working demo environment upon request. |
 
 ---
@@ -90,13 +90,13 @@ Vendors must submit a detailed pricing breakdown including:
 
 ```
 Hardware Cost: $ XXXX 
-Labor/Installation: $ XXXX 
+Labor/Installation Fees: $ XXXX 
 Licensing or Subscription Fees: $ XXXX 
 Annual Maintenance & Support Cost: $ XXXX 
 Optional Add-ons: $ XXXX 
 ```
 
-All fees must clearly indicate whether they are recurring or one-time costs.
+**_All fees must clearly indicate whether they are recurring or one-time costs._**
 
 ---
 
