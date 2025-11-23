@@ -17,16 +17,6 @@ The full IP address list is stored in a separate documentation file:
 
  [Click to view IP addressing file](IP-addressing.txt)
  
-| Device | Connection Type | IP Assignment | Notes |
-|--------|----------------|--------------|--------|
-| Wi-Fi Router | Wired to ISP Modem | 192.168.0.1 | DHCP Server |
-| Smart TV | Wi-Fi | DHCP | Living room |
-| Printer | Wi-Fi | Static (192.168.0.20) | For easy printing |
-| Laptop 1 | Wi-Fi | DHCP | Primary laptop |
-| Laptop 2 | Wi-Fi | DHCP | |
-| iPhone x2 | Wi-Fi | DHCP | |
-| iPad x2 | Wi-Fi | DHCP | |
-
 ##  3. Network Devices and Services
 
 - **ISP Modem**
