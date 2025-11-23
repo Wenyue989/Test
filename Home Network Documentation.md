@@ -15,7 +15,7 @@ It includes both the **physical connections** (Ethernet) and **logical wireless 
 
 The full IP address list is stored in a separate documentation file:
 
- [Click to view IP addressing file](./IP addressing.txt)
+ [Click to view IP addressing file](IP addressing.txt)
 | Device | Connection Type | IP Assignment | Notes |
 |--------|----------------|--------------|--------|
 | Wi-Fi Router | Wired to ISP Modem | 192.168.0.1 | DHCP Server |
