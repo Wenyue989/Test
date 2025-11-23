@@ -1,0 +1,9 @@
+Device          | Connection Type       | IP Assignment           | Notes
+---------------------------------------------------------------------------
+Wi-Fi Router    | Wired to ISP Modem   | 192.168.0.1             | DHCP Server
+Smart TV        | Wi-Fi                | DHCP                    | Living room
+Printer         | Wi-Fi                | Static (192.168.0.20)   | For easy printing
+Laptop 1        | Wi-Fi                | DHCP                    | Primary laptop
+Laptop 2        | Wi-Fi                | DHCP                    |
+iPhone x2       | Wi-Fi                | DHCP                    |
+iPad x2         | Wi-Fi                | DHCP                    |
